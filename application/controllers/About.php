@@ -21,5 +21,8 @@ class About extends CI_Controller{
 		$this->load->view('about_view',$data);
 	}
 
+	function kpg_kau_tundri(){
+		
+	}
 	
 }
