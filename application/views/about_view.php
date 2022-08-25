@@ -53,7 +53,7 @@
 					<div class="container relative">
 						<div class="row">														
 							<div class="col-md-6 col-md-offset-3 mb-10 mb-sm-40 text-center">
-								<h2 class="font-face1 section-heading fw800 mt-0 text-center">About</h2>
+								<h2 class="font-face1 section-heading fw800 mt-0 text-center">Tentang</h2>
 							</div>							
 						</div>	
 						<div class="row">
