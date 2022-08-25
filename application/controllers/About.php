@@ -20,9 +20,4 @@ class About extends CI_Controller{
 		$data['footer'] = $this->load->view('footer','',TRUE);
 		$this->load->view('about_view',$data);
 	}
-
-	function kpg_kau_tundri(){
-		
-	}
-	
 }
